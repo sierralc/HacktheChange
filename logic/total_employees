@@ -10,6 +10,56 @@
   	<a href="total_employees.html">Employee List |</a>
   	<a href="edit_employees.html">Add/Remove Employees |</a>
   	<a href="visualize_schedule.html">Schedule</a>
-        <p>Test text</p>
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Address</th>
+            <th>District</th>
+            <th>Mandatory Work Days</th>
+            <th>Work Days</th>
+            <th>Remote Days</th>
+            <th>Edit Employee</th>
+        </tr>
+        <tr>
+            <td>Alfreds Futterkiste</td>
+            <td>AFutter@gmail.com</td>
+            <td>273 Rundle Horn Circle NE</td>
+            <td>NE</td>
+            <td>Monday</td>
+            <td>Monday, Wednesday, Friday</td>
+            <td>Tuesday, Thursday</td>
+            <td>
+                <a href=""><Button type="button">Edit Employee</Button></a>
+            </td>
+        </tr>
+        <tr>
+            <td>Celica Romansbuerg</td>
+            <td>FEForever@gmail.com</td>
+            <td>2889 Aspen Gate NE</td>
+            <td>NE</td>
+            <td>Monday</td>
+            <td>Monday, Tuesday, Thursday</td>
+            <td>Wednesday, Friday</td>
+            <td>
+                <a href=""><Button type="button">Edit Employee</Button></a>
+            </td>
+        </tr>
+        <tr>
+            <td>Redd Bulle</td>
+            <td>givesyawings@gmail.com</td>
+            <td>109 Valley Canvas Crescent SE</td>
+            <td>SE</td>
+            <td>Monday, Tuesday</td>
+            <td>Monday, Tuesday, Wednesday</td>
+            <td>Thursday, Friday</td>
+            <td>
+                <a href=""><Button type="button">Edit Employee</Button></a>
+            </td>
+        </tr>
+      </table>
+      <br>
+      <br>
+      <a href=""><Button type="button">Add a New Employee</Button></a>
     </body>
 </html>
