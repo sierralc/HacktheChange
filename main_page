@@ -3,6 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>Traffic Flow-and-Go</title>
+        <link href="design.css" tpe="text/css" rel="stylesheet">
     </head>
     <body>
   	<a href="index.html">Home |</a>
